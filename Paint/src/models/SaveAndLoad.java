@@ -12,10 +12,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import eg.edu.alexu.csd.oop.draw.cs11.json.JSONArray;
-import eg.edu.alexu.csd.oop.draw.cs11.json.JSONObject;
-import eg.edu.alexu.csd.oop.draw.cs11.json.parser.JSONParser;
-import eg.edu.alexu.csd.oop.draw.cs11.json.parser.ParseException;
+import json.JSONArray;
+import json.JSONObject;
+import json.parser.JSONParser;
+import json.parser.ParseException;
 import model.interfaces.Shape;
 import models.shapesImpl.MyShape;
 

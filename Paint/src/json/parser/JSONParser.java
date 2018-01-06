@@ -2,7 +2,7 @@
  * $Id: JSONParser.java,v 1.1 2006/04/15 14:10:48 platform Exp $
  * Created on 2006-4-15
  */
-package eg.edu.alexu.csd.oop.draw.cs11.json.parser;
+package json.parser;
 
 import java.io.IOException;
 import java.io.Reader;
@@ -11,8 +11,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import eg.edu.alexu.csd.oop.draw.cs11.json.JSONArray;
-import eg.edu.alexu.csd.oop.draw.cs11.json.JSONObject;
+import json.JSONArray;
+import json.JSONObject;
 
 /**
  * Parser for JSON text. Please note that JSONParser is NOT thread-safe.

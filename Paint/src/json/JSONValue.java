@@ -2,7 +2,7 @@
  * $Id: JSONValue.java,v 1.1 2006/04/15 14:37:04 platform Exp $
  * Created on 2006-4-15
  */
-package eg.edu.alexu.csd.oop.draw.cs11.json;
+package json;
 
 import java.io.IOException;
 import java.io.Reader;
@@ -13,8 +13,8 @@ import java.util.Collection;
 // import java.util.List;
 import java.util.Map;
 
-import eg.edu.alexu.csd.oop.draw.cs11.json.parser.JSONParser;
-import eg.edu.alexu.csd.oop.draw.cs11.json.parser.ParseException;
+import json.parser.JSONParser;
+import json.parser.ParseException;
 
 /**
  * @author FangYidong<fangyidong@yahoo.com.cn>

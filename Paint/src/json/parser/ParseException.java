@@ -1,4 +1,4 @@
-package eg.edu.alexu.csd.oop.draw.cs11.json.parser;
+package json.parser;
 
 /**
  * ParseException explains why and where the error occurs in source JSON text.

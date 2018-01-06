@@ -1,4 +1,4 @@
-package eg.edu.alexu.csd.oop.draw.cs11.json.parser;
+package json.parser;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package eg.edu.alexu.csd.oop.draw.cs11.json;
+package json;
 
 import java.io.IOException;
 import java.io.Writer;

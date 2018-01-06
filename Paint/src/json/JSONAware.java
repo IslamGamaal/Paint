@@ -1,4 +1,4 @@
-package eg.edu.alexu.csd.oop.draw.cs11.json;
+package json;
 
 /**
  * Beans that support customized output of JSON text shall implement this
